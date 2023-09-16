@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanisha Kumari</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate software Developer and frontend Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanisha-55&label=Profile%20views&color=0e75b6&style=flat" alt="tanisha-55" /> </p>
 
