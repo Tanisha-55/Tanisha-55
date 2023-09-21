@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **baidyatanisha05@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact is **Nothing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
